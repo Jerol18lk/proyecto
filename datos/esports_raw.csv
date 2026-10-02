@@ -1,0 +1,8 @@
+Match_ID,Equipo,Kills,Deaths,Duracion,Ping_ms
+M01,Halcones,25,10,15 min,45.0
+M02,Lobos,12,0,20m 30s,120.0
+M02,Lobos,12,0,20m 30s,120.0
+M03,Tigres,30,15,18 min,
+M04,Halcones,5,20,ERROR_SV,999.0
+M05,Tigres,18,0,12m,30.0
+M06,Panteras,22,2,45 mins,
